@@ -34,6 +34,12 @@ SnapOrder speeds up product-page conversions with an express Buy Now modal, chat
 
 GPLv2 or later. See [LICENSE](LICENSE).
 
+## Links
+
+- **Live website:** https://karazshop.ae/
+- **Developer website:** https://mudassar.net/
+- **Repository:** https://github.com/mhkxx2/snaporder-buy-now-for-woocommerce
+
 ## Author
 
-ShopForge Labs · [GitHub @mhkxx2](https://github.com/mhkxx2)
+ShopForge Labs · [mudassar.net](https://mudassar.net/) · [GitHub @mhkxx2](https://github.com/mhkxx2)
