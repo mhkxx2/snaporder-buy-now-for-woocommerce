@@ -47,6 +47,13 @@ SnapOrder is built for stores that sell with phone confirmation, COD, and chat-a
 
 Chat message templates support tokens such as `{product_name}`, `{qty}`, `{price}`, `{link}`, and `{page_url}` (depending on context).
 
+
+= Links =
+
+* Live website: https://karazshop.ae/
+* Developer website: https://mudassar.net/
+* Plugin URI: https://github.com/mhkxx2/snaporder-buy-now-for-woocommerce
+
 == Installation ==
 
 1. Upload `snaporder-buy-now-for-woocommerce` to `/wp-content/plugins/`

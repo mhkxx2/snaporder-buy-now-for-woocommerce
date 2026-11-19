@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: SnapOrder Buy Now for WooCommerce
- * Plugin URI:  https://github.com/mhkxx2/snaporder-buy-now-for-woocommerce
+ * Plugin URI: https://karazshop.ae/
  * Description: Adds Buy Now quick-order checkout and chat-order buttons on WooCommerce product pages, plus a floating chat button with Meta Pixel & GTM-friendly tracking.
  * Version:     1.2.1
  * Author:      ShopForge Labs
- * Author URI:  https://github.com/mhkxx2
+ * Author URI: https://mudassar.net/
  * Text Domain: snaporder-buy-now-for-woocommerce
  * Domain Path: /languages
  * Requires at least: 5.8
